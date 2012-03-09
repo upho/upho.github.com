@@ -12,9 +12,8 @@ pygments: true
 title : UPHO Network
 tagline: 
 author :
-  name : Kaustubh Srikanth
-  email : kaustubh@houndbee.com
-  github : houndbee
+  name : UPHO Network
+  github : upho
   twitter : houndbee
 
 # The production_url is only used when full-domain names are needed
