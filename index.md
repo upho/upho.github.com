@@ -6,4 +6,4 @@ tagline:
 
 ## Welcome
 
-This website is a currently a work in progress. We should have something relevant up here soon.
+This website is a currently a work in progress. We should have something up here soon.
